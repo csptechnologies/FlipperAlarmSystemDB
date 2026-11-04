@@ -3,4 +3,4 @@ This is the database of where you may upload captured Security Alarm System sens
 
 Directory Structure
 
-FlipperAlarmSystemDB/(Frequency)/(Brand)/(TXID)/(file, must have open and close with the loop number labeled).sub
+FlipperAlarmSystemDB/(Frequency)/(Brand)/(Type)/(TXID)/(Open/Close).sub
