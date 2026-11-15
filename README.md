@@ -1,5 +1,5 @@
 # FlipperAlarmSystemDB
-This is a community database of captured security alarm system sensors that can be used with Flipper Zero devices.
+This is a community database of captured security alarm system sensors that can be used with alarm systems for testing.
 ## Directory Structure
 
 ```text
