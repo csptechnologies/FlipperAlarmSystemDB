@@ -1,1 +1,1 @@
-![l_WS4939](433MHz/DSC/l_WS4939.jpg)
+![l_WS4939](l_WS4939.jpg)
