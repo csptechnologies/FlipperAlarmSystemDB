@@ -16,6 +16,9 @@ FlipperAlarmSystemDB/(Frequency)/(Brand)/(Type)/(TXID)/(Open or Close).sub
 - Verify that the capture works as documented before submitting it, and explain any limitations or uncertainty.
 - Create a pull request to add the sensor in.
 
+## Sources Used for Information
+- https://www.alarmgrid.com/documents/products/
+
 ## AI Use Declaration
 
 AI assistance was used to draft and edit this README. The project maintainer reviewed the resulting content and is responsible for its final wording. Contributions to the database should still be reviewed by their authors for accuracy, safety, and authorization.
