@@ -4,4 +4,4 @@
 
 Tech: NFC 
 
-Use PicoPass app to read
+Use PicoPass app to read this sensors
