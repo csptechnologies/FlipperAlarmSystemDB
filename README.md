@@ -16,6 +16,11 @@ FlipperAlarmSystemDB/(Frequency)/(Brand)/(Type)/(TXID)/(Open or Close).sub
 - Verify that the capture works as documented before submitting it, and explain any limitations or uncertainty.
 - Create a pull request to add the sensor in.
 
+## Active Contributors
+
+- Owner of CSP Technologies (Ryan Kim)
+- Owner of AdaptaStation (Pyle49R/123yay)
+
 ## Sources Used for Information
 - https://www.alarmgrid.com/documents/products/
 
